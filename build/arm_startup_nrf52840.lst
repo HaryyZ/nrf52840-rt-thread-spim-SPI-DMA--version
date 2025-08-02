@@ -460,11 +460,11 @@ ARM Macro Assembler    Page 8
 
 
 -depend=.\build\arm_startup_nrf52840.d -o.\build\arm_startup_nrf52840.o -ID:\Re
-search\HL\ProCode\Pr\up\project\RTE -IC:\ProFiles\Keil_v5\ARM\PACK\NordicSemico
-nductor\nRF_DeviceFamilyPack\8.44.1\Device\Include -IC:\ProFiles\Keil_v5\ARM\CM
-SIS\Include --predefine="__UVISION_VERSION SETA 516" --predefine="NRF52840_XXAA
- SETA 1" --list=.\build\arm_startup_nrf52840.lst packages\nrfx-latest\mdk\arm_s
-tartup_nrf52840.s
+search\HL\ProCode\Pr\upload\project\RTE -IC:\ProFiles\Keil_v5\ARM\PACK\NordicSe
+miconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include -IC:\ProFiles\Keil_v5\AR
+M\CMSIS\Include --predefine="__UVISION_VERSION SETA 516" --predefine="NRF52840_
+XXAA SETA 1" --list=.\build\arm_startup_nrf52840.lst packages\nrfx-latest\mdk\a
+rm_startup_nrf52840.s
 
 
 
