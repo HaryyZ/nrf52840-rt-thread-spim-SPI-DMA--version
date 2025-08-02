@@ -1,0 +1,17 @@
+.\build\showmem.o: rt-thread\libcpu\arm\common\showmem.c
+.\build\showmem.o: rt-thread\include\rtthread.h
+.\build\showmem.o: .\rtconfig.h
+.\build\showmem.o: rt-thread\include\rtdef.h
+.\build\showmem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\showmem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\build\showmem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\showmem.o: rt-thread\components\libc\compilers\common\extension\sys/types.h
+.\build\showmem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\build\showmem.o: rt-thread\components\libc\compilers\common\extension\sys/errno.h
+.\build\showmem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\build\showmem.o: rt-thread\include\rtservice.h
+.\build\showmem.o: rt-thread\include\rtm.h
+.\build\showmem.o: rt-thread\include\rtthread.h
+.\build\showmem.o: rt-thread\include\rtatomic.h
+.\build\showmem.o: rt-thread\include\rthw.h
+.\build\showmem.o: rt-thread\components\finsh\finsh.h

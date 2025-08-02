@@ -1,0 +1,17 @@
+.\build\syscall_mem.o: rt-thread\components\libc\compilers\armlibc\syscall_mem.c
+.\build\syscall_mem.o: rt-thread\include\rtthread.h
+.\build\syscall_mem.o: .\rtconfig.h
+.\build\syscall_mem.o: rt-thread\include\rtdef.h
+.\build\syscall_mem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\syscall_mem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\build\syscall_mem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\syscall_mem.o: rt-thread\components\libc\compilers\common\extension\sys/types.h
+.\build\syscall_mem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\build\syscall_mem.o: rt-thread\components\libc\compilers\common\extension\sys/errno.h
+.\build\syscall_mem.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\build\syscall_mem.o: rt-thread\include\rtservice.h
+.\build\syscall_mem.o: rt-thread\include\rtm.h
+.\build\syscall_mem.o: rt-thread\include\rtthread.h
+.\build\syscall_mem.o: rt-thread\include\rtatomic.h
+.\build\syscall_mem.o: rt-thread\include\rthw.h
+.\build\syscall_mem.o: rt-thread\components\finsh\finsh.h

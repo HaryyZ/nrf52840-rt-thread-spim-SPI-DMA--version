@@ -1,0 +1,17 @@
+.\build\idle.o: rt-thread\src\idle.c
+.\build\idle.o: rt-thread\include\rthw.h
+.\build\idle.o: rt-thread\include\rtdef.h
+.\build\idle.o: .\rtconfig.h
+.\build\idle.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\idle.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\build\idle.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\idle.o: rt-thread\components\libc\compilers\common\extension\sys/types.h
+.\build\idle.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\build\idle.o: rt-thread\components\libc\compilers\common\extension\sys/errno.h
+.\build\idle.o: C:\ProFiles\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\build\idle.o: rt-thread\include\rtthread.h
+.\build\idle.o: rt-thread\include\rtservice.h
+.\build\idle.o: rt-thread\include\rtm.h
+.\build\idle.o: rt-thread\include\rtthread.h
+.\build\idle.o: rt-thread\include\rtatomic.h
+.\build\idle.o: rt-thread\components\finsh\finsh.h

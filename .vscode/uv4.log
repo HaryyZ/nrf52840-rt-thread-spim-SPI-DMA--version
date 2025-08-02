@@ -1,0 +1,17 @@
+*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'D:\Program Files\KeilMDK\ARM\ARMCC\Bin'
+Build target 'rtthread'
+compiling drv_gpio.c...
+linking...
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_req_observers0$$Base (referred from nrf_sdh.o). Unused section has been removed.
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_req_observers0$$Limit (referred from nrf_sdh.o). Unused section has been removed.
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_req_observers1$$Base (referred from nrf_sdh.o). Unused section has been removed.
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_req_observers1$$Limit (referred from nrf_sdh.o). Unused section has been removed.
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_stack_observers1$$Base (referred from nrf_sdh.o). Unused section has been removed.
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_stack_observers1$$Limit (referred from nrf_sdh.o). Unused section has been removed.
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_state_observers1$$Base (referred from nrf_sdh.o). Unused section has been removed.
+.\build\rtthread.axf: Warning: L6330W: Undefined symbol sdh_state_observers1$$Limit (referred from nrf_sdh.o). Unused section has been removed.
+Program Size: Code=160516 RO-data=14360 RW-data=1280 ZI-data=51912  
+Finished: 0 information, 8 warning and 0 error messages.
+FromELF: creating hex file...
+".\build\rtthread.axf" - 0 Error(s), 8 Warning(s).
+Build Time Elapsed:  00:00:04
